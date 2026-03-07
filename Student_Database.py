@@ -49,7 +49,6 @@ marks_old, marks_new = map(int, input("Enter the old marks and new marks separat
 student_updated_database = Update(student_database, student, marks_old, marks_new)
 print(f"Updated Student Database:\t{student_updated_database}")
 
-from binascii import Error
 import json
 
 try:
@@ -57,5 +56,5 @@ try:
         for i in student_updated_database:
             json.dump({i: student_updated_database[i]}, file)
             file.write("\n")
-except Error as e:
+except Exception as e:
     print(f"Error saving student database to file: {e}")
