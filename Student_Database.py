@@ -59,4 +59,3 @@ try:
             file.write("\n")
 except Error as e:
     print(f"Error saving student database to file: {e}")
-
