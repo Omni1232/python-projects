@@ -43,6 +43,8 @@ Concepts used:
 - Inheritance
 - Encapsulation
 
+---
+
 - ### 3. Library Management System
 A Python program to manage books in a library.
 
