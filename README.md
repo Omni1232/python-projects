@@ -43,6 +43,23 @@ Concepts used:
 - Inheritance
 - Encapsulation
 
+---
+
+- ### 3. Library Management System
+A Python program to manage books in a library.
+
+Features:
+- Add new books
+- Display available books
+- Issue books to users
+- Return books
+- Track book availability
+
+Concepts used:
+- Classes and Objects
+- Lists / Dictionaries
+- Functions
+
 - ## Technologies
 - Python 3
 - Git
