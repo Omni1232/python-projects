@@ -60,6 +60,28 @@ Concepts used:
 - Lists / Dictionaries
 - Functions
 
+---
+
+- ### 4. E-Commerce Mini Backend (Console)
+A console-based simulation of an online shopping system.
+
+Features:
+- Add products
+- Register users
+- Add items to cart
+- View cart
+- Checkout orders
+- Calculate total price
+
+Concepts used:
+- Classes and Objects
+- Inheritance
+- Composition
+- Dictionaries
+- Object-Oriented Programming (OOP)
+
+---
+
 - ## Technologies
 - Python 3
 - Git
